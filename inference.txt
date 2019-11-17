@@ -1,1 +1,0 @@
-python main.py --mode inference --model cnn --class_map_path class_map.csv --test_clip_dir divide_audio --checkpoint D:\\L5_Relu_hEq/model.ckpt-914293 --predictions_csv_path predictions.csv

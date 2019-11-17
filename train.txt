@@ -1,1 +1,0 @@
-python main.py --mode train --model cnn --class_map_path class_map.csv --train_clip_dir audio_train --train_csv_path train.csv --train_dir D:\\L5_Relu_hEq
